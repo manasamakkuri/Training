@@ -1,0 +1,27 @@
+[
+  {
+    "crop": "Wheat",
+    "price": 25,
+    "unit": "₹/kg"
+  },
+  {
+    "crop": "Rice",
+    "price": 30,
+    "unit": "₹/kg"
+  },
+  {
+    "crop": "Corn",
+    "price": 22,
+    "unit": "₹/kg"
+  },
+  {
+    "crop": "Tomato",
+    "price": 15,
+    "unit": "₹/kg"
+  },
+  {
+    "crop": "Potato",
+    "price": 18,
+    "unit": "₹/kg"
+  }
+]
